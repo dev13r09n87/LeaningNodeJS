@@ -1,0 +1,13 @@
+npm i -g nodemon
+npm i express
+
+##Instalaremos para hacer uso de plantilla con express.
+npm i express-generator -g
+express -h
+## Usando el metodo de generacion de plantilla con express.
+express --view=ejs myapp-1
+
+#Creacion del proyecto HBS-1-shorUrl 
+npm init -y
+npm i -D nodemon
+npm i express-handlebars
