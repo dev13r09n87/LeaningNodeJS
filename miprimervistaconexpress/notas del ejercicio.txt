@@ -11,3 +11,10 @@ express --view=ejs myapp-1
 npm init -y
 npm i -D nodemon
 npm i express-handlebars
+
+# Instalando mongoose
+npm i mongoose
+# Para gestionar las variables de entorno usamos el paquete dotenv
+npm i dotenv 
+# nanoid
+npm i nanoid 
